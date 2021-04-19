@@ -1,0 +1,17 @@
+package com.cts.model;
+
+public class CustomerFactory {
+	Customer customer=null;
+	
+	public Customer createCustomer()
+	{
+		if(customer==null)
+		{
+			customer=new Customer();
+			customer.setcustomerId(1);
+			customer.setcustomerName("AKSHAYA");
+			customer.setCustomerSalary(100000000000000);
+		}
+	}
+
+}

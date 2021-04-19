@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="cts.com.core.Circle"/>
+    <fullyQualifiedTypeName name="com.cts.model.Employee"/>
+    <fullyQualifiedTypeName name="com.cts.model.Delivery"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.cts.model.Customer"/>
+</qualifiedTypeNameHistroy>
