@@ -14,8 +14,6 @@ public class LeaderMain {
 		
 		//BeanFactory beanFactory= new ClassPathXmlApplicationContext("application.xml");
 		
-		// Below is the other method to access bean.
-		
 		ConfigurableApplicationContext beanFactory= new ClassPathXmlApplicationContext("application.xml");
 		
 		Leader leader= beanFactory.getBean("leader", Leader.class);
